@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 2
+date: 2018-05-01
+img: weltel.png
+alt: image-alt
+project-date: May - Aug 2018
+technologies: Node.js, Angular, MySQL
+source: www.weltel.org
+description:  <ul style="text-align&#58 left; font-size&#58 19px"> <li> Improved stability of the web-application platform in delivering text messages to patients using Node.js </li> <li> Developed a new feature allowing patients to choose different messaging frequencies for receiving checkups both in the backend and frontend using Node.js and Angular </li> <li> Created data migration scrips to update old data base structures to the newest data base structure </li> </ul>
+
+
+
+---

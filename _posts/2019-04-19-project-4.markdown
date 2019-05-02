@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 1
+date: 2019-04-19
+img: main-menu.png
+alt: image-alt
+project-date: Jan - Apr 2019
+technologies: C++, OpenGL
+source: github.com/ReggieLai/minos-monster-maze
+description: Developed a 2D scrolling platformer in a group of 6 in C++. Voted best game out of 12 by industry professionals that acted as external judges.
+
+---

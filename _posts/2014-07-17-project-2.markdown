@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 3
+date: 2017-09-01
+img: jostle.png
+alt: image-alt
+project-date: Sep - Dec 2017
+technologies: Java, Maven, GWT, Jenkins
+source: www.jostle.me
+description: <ul style="text-align&#58 left; font-size&#58 19px"> <li> Developed a process to automate the creation of a component that required parsing of a RSS feed and the use of Java, Maven, and the GWT web toolkit </li> <li> Established good technical communication skills through the participation of daily scrums and technical documentation </li> <li> Fixed bugs posted on JIRA using Java and CSS </li> </ul>
+
+---

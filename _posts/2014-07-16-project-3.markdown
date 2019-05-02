@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 4
+date: 2017-04-01
+img: block-breaker.png
+alt: image-alt
+project-date: Apr - July 2017
+technologies: C#, Unity
+source: github.com/ReggieLai/BlockBreaker
+description: Developed a single-player PC game from scratch using C# in Unity and employing the observer design pattern
+
+---
